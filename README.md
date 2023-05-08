@@ -13,6 +13,6 @@
 > Memfollow akun github.
 ![](<Mobile Programing _Pertemuan 3/Pertemuan 3.png>)
 
-### PERTEMUAN 3
-> Memfollow akun github.
+### PERTEMUAN 7
+> Membuat GridView
 ![](<Mobile Programing_Pertemuan 7/Pertemuan 7.png>)
